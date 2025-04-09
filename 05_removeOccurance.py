@@ -1,7 +1,4 @@
 # code for removing the "i"th occurance element from the list 
-
-print("hi")
-
 a=[]
 n  =int(input("enter the no. of elements :- "))
 
@@ -21,5 +18,4 @@ for i in range(len(a)):
             a.pop(i)
             break
 
-
-print (a)
+print(a)
